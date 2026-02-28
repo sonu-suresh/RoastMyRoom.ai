@@ -1,4 +1,4 @@
-# Messy Room Cleaner 🧹
+# RoastMyRoom.ai 🧹
 
 A strict, sarcastic, yet ultimately helpful AI interior designer for messy rooms built using the Vision-Agents framework and Gemini Realtime API! 
 
