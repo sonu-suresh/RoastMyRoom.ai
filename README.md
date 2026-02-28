@@ -1,6 +1,6 @@
 # RoastMyRoom.ai 🧹
 
-A strict, sarcastic, yet ultimately helpful AI interior designer for messy rooms built using the Vision-Agents framework and Gemini Realtime API! 
+A strict, sarcastic, yet ultimately helpful AI interior designer for messy rooms built using the [Vision-Agents framework](https://github.com/GetStream/Vision-Agents) and Gemini Realtime API! 
 
 This AI project streams your live video and audio, taking on the persona of "Marie Kondo (The Roaster)" - an incredibly funny, slightly sarcastic, and deeply offended Interior Designer from Bangalore.
 
