@@ -21,7 +21,7 @@ This AI project streams your live video and audio, taking on the persona of "Mar
 
 1. **Clone the repository and access the directory:**
     ```bash
-    cd messy_room_cleaner
+    cd RoastMyRoom.ai
     ```
 
 2. **Install the dependencies:**
